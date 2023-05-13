@@ -134,6 +134,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_s
 #EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Jawa_Pos_TV_2021.png" group-title="Lokal ",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
+#EXTINF:0 tvg-id="Garuda TV.id" tvg-logo="https://www.garuda.tv/wp-content/uploads/2018/05/logo-web-garuda.tv_.svg " group-title="Lokal ",Garuda TV
+https://stream.garuda.tv/live/garudatv/live.m3u8
+
+
+#EXTINF:0 tvg-id="ADI TV.id" tvg-logo="https://gdplayer.tv/assets/img/logo/aditv.png " group-title="Lokal ",ADI TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+
 
 
 ****************************************************RELIGION*****************************************************************************
@@ -147,14 +154,13 @@ https://re1.siar.us/madutv/hd720/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id=" TVMu.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tv-muhammadiyah-1.png " group-title="Religion",TV Muhammadiyah
-https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#EXTINF:0 tvg-id="TV9.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/tv9-1.png" group-title="Religion",TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="TV9.Id" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/tv9-1.png" group-title="Religion",TV9
-https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
-
+#EXTINF:0 tvg-id=" TVMu.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tv-muhammadiyah-1.png " group-title="Religion",TV Muhammadiyah
+https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -238,10 +244,7 @@ https://anevia114.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium
 #EXTINF:0 tvg-id="HITS.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/hits.png " group-title="Entertainment ",HITS
 https://anevia114.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/warner.png " group-title="Movies",Warner TV
-https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -325,16 +328,8 @@ https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " group-title="Movies",HBO
-http://5.255.90.238:5002/play/a014/index.m3u8
-https://anevia114.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemax.png " group-title="Movies",Cinemax
-http://5.255.90.192:4005/play/a01s
-https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/warner.png " group-title="Movies",Warner TV
+https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -391,6 +386,16 @@ https://anevia114.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indon
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemaworld-1.png " group-title="Movies",Cinema World
 https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " group-title="Movies",HBO
+http://5.255.90.238:5002/play/a014/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/cinemax.png " group-title="Movies",Cinemax
+http://5.255.90.192:4005/play/a01s
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Movies",K+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
@@ -538,6 +543,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1028346365_b
 
 **************************************************Documentary*******************************************************************************
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="NationalGeographic.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/natgeo.png " group-title="Documentary ",National Geographic HD
@@ -547,12 +554,6 @@ https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/bbc-earth.png " group-title="Documentary ",BBC Earth
 https://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="DiscoveryChannel.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/discovery.png " group-title="Documentary ",Discovery Channel HD
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-https://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -569,10 +570,20 @@ https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/animal-planet.png" group-title="Documentary ",Animal Planet HD
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u
-https://anevia114.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="DiscoveryChannel.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/discovery.png " group-title="Documentary ",Discovery Channel HD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
 
 **********************************************Lifestyle***********************************************************************************
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="HGTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/hgtv-1.png " group-title="Lifestyle",HGTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -594,12 +605,6 @@ https://anevia114.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tlc.png " group-title="Lifestyle",TLC
 https://anevia114.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="HGTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/hgtv-1.png " group-title="Lifestyle",HGTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
-https://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
