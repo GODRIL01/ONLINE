@@ -5,7 +5,10 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:0 tvg-id="INFO" tvg-logo="https://cdn6.aptoide.com/imgs/7/5/e/75ef5d9fe7c81501d3ae4246b124c5e8_fgraphic.jpg" group-title="Lokal ",INFO 
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w997024308.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
