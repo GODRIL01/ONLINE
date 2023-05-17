@@ -385,6 +385,14 @@ https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:0 tvg-id="Rakuten " tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:0 tvg-id="Rakuten comedy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten comedy
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:0 tvg-id="Rakuten Action" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten Action
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/4300.m3u8
+
+#EXTINF:0 tvg-id="Rakuten Italy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten Italy
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Movies",K+
