@@ -380,12 +380,11 @@ https://anevia114.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indon
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
 https://webudit.salamus1.lol/lb/premium321/index.m3u8
-http://5.255.90.238:5002/play/a014/index.m3u8
 
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 
 
 
