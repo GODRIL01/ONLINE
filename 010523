@@ -136,7 +136,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_s
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 #EXTINF:0 tvg-id="Garuda TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/768px-Logo_GarudaTV_Merah_Flat_2022.svg.png " group-title="Lokal ",Garuda TV
-https://stream.garuda.tv/live/garudatv/live.m3u8
+https://streamweb.garuda.tv/live/garudatv/chunklist_w1078244858.m3u8
 
 
 #EXTINF:0 tvg-id="ADI TV.id" tvg-logo="https://gdplayer.tv/assets/img/logo/aditv.png " group-title="Lokal ",ADI TV
