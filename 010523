@@ -6,7 +6,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml
 
 
-#EXTINF:0 tvg-id="INFO"https://mncplay.id/wp-content/uploads/2013/10/logo-info-1.png " group-title="Lokal ",INFO 
+#EXTINF:0 tvg-id="INFO"https://mncplay.id/wp-content/uploads/2013/10/COLOR_Logo-MNC-Play-Mendatar.png " group-title="Lokal ",INFO 
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w997024308.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
