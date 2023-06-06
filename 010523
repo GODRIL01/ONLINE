@@ -225,7 +225,7 @@ https://anevia114.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 https://anevia114.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 
-#EXTINF:0 tvg-id="KPOP TV" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM_400x400.jpg " group-title="Music ",KPOP TV
+#EXTINF:0 tvg-id="KPOP TV" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png " group-title="Music ",KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w997024308.m3u8
 
 
