@@ -158,7 +158,7 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 https://streamweb.garuda.tv/live/garudatv/chunklist_w1078244858.m3u8
 
 
-#EXTINF:0 tvg-id="ADI TV.id" tvg-logo="https://gdplayer.tv/assets/img/logo/aditv.png " group-title="Lokal ",ADI TV
+#EXTINF:0 tvg-id="ADI TV.id" tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png " group-title="Lokal ",ADI TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
 
