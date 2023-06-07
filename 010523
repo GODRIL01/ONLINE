@@ -142,7 +142,8 @@ https://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:0 tvg-id="jitv " tvg-logo="https://jitv.jogjaprov.go.id/images/logo_jogja_tv.png " group-title="Lokal",jitv
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1617293890.m3u8
+
 
 #EXTINF:0 tvg-id="Nusantara TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png  " group-title="Lokal",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
