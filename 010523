@@ -170,7 +170,7 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 #EXTINF:0 tvg-id="RodjaTV.Id" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="Religion",RodjaTV
 http://210.210.155.35/session/ff7f8ea4-6df5-11ed-8981-c81f66f89318/qwr9ew/s/s14/index10.m3u8
 
-#EXTINF:0 tvg-id="MADU TV" tvg-logo="https://madu.tv/wp-content/uploads/2022/01/LOGO-BARU-MADUTV-2021.png" group-title="Religion",MADU TV
+#EXTINF:0 tvg-id="MADU TV" tvg-logo="https://madu.tv/wp-content/uploads/2023/05/madu-tv-logo.png " group-title="Religion",MADU TV
 https://re1.siar.us/madutv/hd720/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
