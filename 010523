@@ -155,8 +155,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_s
 #EXTINF:0 tvg-id="JawaPosTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Jawa_Pos_TV_2021.png" group-title="Lokal ",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
-#EXTINF:0 tvg-id=" AREK TV.id" tvg-logo="https://arek.tv/wp-content/uploads/2021/03/LOGO-AREK-3D_NEW.png " group-title="Lokal ",AREK TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+#EXTINF:0 tvg-id="Garuda TV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/768px-Logo_GarudaTV_Merah_Flat_2022.svg.png " group-title="Lokal ",Garuda TV
+https://streamweb.garuda.tv/live/garudatv/chunklist_w1078244858.m3u8
 
 
 #EXTINF:0 tvg-id="ADI TV.id" tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png " group-title="Lokal ",ADI TV
