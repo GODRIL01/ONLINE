@@ -724,12 +724,12 @@ https://anevia114.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Okezone-TV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Okezone-TV.png " group-title="Lokal ",Okezone TV
+#EXTINF:0 tvg-id="Okezone-TV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Okezone-TV.png " group-title="Lifestyle ",Okezone TV
 https://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Celebrities TV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Celebrities-TV.png " group-title="Lokal ",Celebrities TV
+#EXTINF:0 tvg-id="Celebrities TV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Celebrities-TV.png " group-title="Lifestyle ",Celebrities TV
 https://anevia114.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 
