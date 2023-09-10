@@ -119,6 +119,7 @@ https://liveaneviadev.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:0 tvg-id="BBS TV " tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="Lokal",BBS TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8?id=99827177
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:0 tvg-id="jitv " tvg-logo="https://jitv.jogjaprov.go.id/images/logo_jogja_tv.png " group-title="Lokal",jitv
