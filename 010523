@@ -141,6 +141,7 @@ https://liveaneviadev.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:0 tvg-id="BBS TV " tvg-logo="https://www.lyngsat.com/logo/tv/dd/duta_tv_id.png" group-title="Lokal",DUTA TV
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream3/streamPlaylist.m3u8
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
