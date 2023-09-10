@@ -118,7 +118,7 @@ https://liveaneviadev.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:0 tvg-id="BandungTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/bandung-tv.png " group-title="Lokal ",BandungTV
 https://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
-#EXTINF:0 tvg-id="BBS TV " tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="Lokal",BBS TV
+#EXTINF:0 tvg-id="BBS TV " tvg-logo="https://www.lyngsat.com/logo/tv/dd/duta_tv_id.png" group-title="Lokal",DUTA TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
