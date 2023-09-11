@@ -758,8 +758,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjULqVmWuMCQhQdqdl7eY481wEdH4o1xv6LA&usqp=CAU " group-title="Sports",C Deportivo
-https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png " group-title="Sports",TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://s.id/1d1Gl ",Bein sports 1
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
