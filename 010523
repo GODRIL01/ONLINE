@@ -693,7 +693,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/bbc-earth.png " group-title="Documentary ",BBC Earth
+#EXTINF:0 tvg-id="BBC Earth HD.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/BBC-EARTH-1.png " group-title="Documentary ",BBC Earth HD
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
