@@ -90,7 +90,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1698120866~acl=/hls-p/ingest_205_*/*~hmac=e5731424f17ee26a8c16f8c23853af41aad0ab2ee7ee2989267f399c7d25bcea/hls-p/ingest_205_360p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1698145454~acl=/hls-p/ingest_205_*/*~hmac=1b6cf9266fd39d3b2f14f014ab64c0f6ea2a2f1a41d5b4edfd174b7cb452db4c/hls-p/ingest_205_720p/index.m3u8
 http://tvkuonline.my.id:25461/riyad/riyad/14
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
