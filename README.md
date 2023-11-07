@@ -96,7 +96,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 http://tvkuonline.my.id:25461/riyad/riyad/14
 https://my-vidio.mystream.workers.dev/index.m3u8?id=205
 
-
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IqMLuNYRctFDNNJlQjuu81ATuSE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="Lokal", MOJI Digital
+https://mantul.biz.id:443/ekos/748382/8251.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
