@@ -863,22 +863,22 @@ https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https:/
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://sport.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
+#EXTINF:0 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/3ypeowly0e6zqdb/truesports1.png ",True Premier Football 1
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://youdooball.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/yS94g00.png",True Premier Football 2
+#EXTINF:0 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/fv8l24cb1ihz689/truesports2.png ",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://youdooball.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/xBmmgXe.png",True Premier Football 3
+#EXTINF:0 group-title="Sports " tvg-logo="https://dl.dropboxusercontent.com/s/r46cvbq6oia3dea/truesports3.png ",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://youdooball.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/HOfAIeF.png",True Premier Football 4
+#EXTINF:0 group-title="Sports " tvg-logo="https://dl.dropboxusercontent.com/s/iq30brv2ntkmmqn/truesports4.png ",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://youdooball.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:0 group-title="Sports " tvg-logo="https://i.imgur.com/IAvYAOR.png",True Premier Football 5
+#EXTINF:0 group-title="Sports " tvg-logo="https://dl.dropboxusercontent.com/s/nhkjohmfw98e0bq/truesports5.png ",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://youdooball.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
