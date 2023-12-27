@@ -1328,7 +1328,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 
 
 
-#EXTINF:0 tvg-country="AR" tvg-logo=" https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg" group-title="Sports",DUBAI SPORTS
+#EXTINF:0 tvg-country="AR" tvg-logo=" https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg" group-title="SPORTS",DUBAI SPORTS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 
