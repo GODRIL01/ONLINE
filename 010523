@@ -129,7 +129,7 @@ https://s.id/indosiarHD_shareext-ts
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title=" NASIONAL", SCTV
 https://s.id/sctvHD_shareext-ts
 
-#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title=" NASIONAL", MOJI
+#EXTINF:-1 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="NASIONAL",moji
 https://s.id/mojiHD_shareext-ts
 
 
