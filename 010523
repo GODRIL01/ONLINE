@@ -709,19 +709,19 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w986065702.m3u8
 #EXTINF:-1 tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png " group-title="SPORTS ",TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASTRO SUPERSTAR
+#EXTINF:-1 group-title="SPORTS" tvg-id=" "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASTRO SUPERSTAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ASTRO SUPERSTAR2
+#EXTINF:-1 group-title="SPORTS" tvg-id=" "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png",ASTRO SUPERSTAR2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT3
+#EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="astro.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4
+#EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
