@@ -287,29 +287,17 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://link.zozotv.xyz:443/rozila969/abc12345/693
 
-#http://myteve.online:8080/Abraham/6b3ca724a0/197972
-https://s.id/hbo_shareext-m3u8|User-Agent=Shareext/5.0
-
 #EXTINF:-1 tvg-id="HBO Family " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png " group-title="MOVIES",HBO FAMILY 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://link.zozotv.xyz:443/rozila969/abc12345/98
-
-#http://myteve.online:8080/Abraham/6b3ca724a0/197055
-https://s.id/hbofam_shareext-m3u8|User-Agent=Shareext/5.0
 
 #EXTINF:-1 tvg-id="HBO HIT" tvg-logo="https://dl.dropboxusercontent.com/s/9lmchrvt6dfd21s/hbohits.png " group-title=" MOVIES",HBO HITS 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://link.zozotv.xyz:443/rozila969/abc12345/97
 
-#http://myteve.online:8080/Abraham/6b3ca724a0/196480
-https://s.id/hbohits_shareext-m3u8|User-Agent=Shareext/5.0
-
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png " group-title="MOVIES",HBO SIGNATURE 
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://link.zozotv.xyz:443/rozila969/abc12345/99
-
-#http://myteve.online:8080/Abraham/6b3ca724a0/221948
-https://s.id/hbosig_shareext-m3u8|User-Agent=Shareext/5.0
 
 ***************************************************************************************************
 
