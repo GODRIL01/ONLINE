@@ -133,6 +133,7 @@ http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/95
 
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="NASIONAL ",INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 http://103.113.116.150:25461/mtm1/12345/19
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/94
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
