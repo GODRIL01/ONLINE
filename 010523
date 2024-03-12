@@ -288,7 +288,7 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 ******************************************************MOVIES**************************************************************
 
 
-#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png " tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="MOVIES", HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png " tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="MOVIES", HBO Signature
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.150.117.215:25461/215@v2new/9OKqDp3L9S/11835
 
