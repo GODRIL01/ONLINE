@@ -325,7 +325,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.ts
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=vlc
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848 " group-title="MOVIES",HBO Family
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
