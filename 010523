@@ -756,22 +756,22 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186388
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186389
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png ",ASTRO SUPERSPORT4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 #http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186390
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
 #EXTINF:-1 group-title="SPORTS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png ",Bein sports 1
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
