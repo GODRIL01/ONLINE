@@ -1023,12 +1023,6 @@ http://gmlive.ddns.net:5000/kun5g/kun5g2024/59
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/60
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" group-title="SPORTS",BEINSPORTS 1
-http://xtv.ooo:8080/MansoorWapda/258741/350900
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="SPORTS ",BEINSPORTS 3
-http://xtv.ooo:8080/MansoorWapda/258741/350901
-
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://i.imgur.com/L9hHCPv.jpeg", Ssc 1 ( OTT )
