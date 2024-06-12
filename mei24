@@ -154,19 +154,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
 
 
-
-
-
-
 #EXTINF:-1 group-title="NASIONAL" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Infinix X6812B Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://210.210.155.35/x6bnqe/s/s41/index.m3u8
-
-
-
-
-
 
 
 *****************************************************************************************************
@@ -300,8 +291,8 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ADI TV.id" tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png " group-title="NASIONAL ",ADI TV
-https://v2.siar.us/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: TATV" tvg-logo=" https://static.wikia.nocookie.net/logo-tv/images/2/2a/TATV_%282010%29.png " group-title=" NASIONAL ",TATV
+https://nin.siar.us/tatv/live.sdp/chunks.m3u8?nimblesessionid=2680355
 
 
 ******************************************************MOVIES**************************************************************
