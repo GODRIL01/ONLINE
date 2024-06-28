@@ -29,6 +29,7 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EwgjuCI.jpeg " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", Live 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://di-j16ei4yq.vo.lswcdn.net/sportitalia/smil:sihd.smil/chunklist_b3096000.m3u8
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="LIVE EVENT",Live 4
