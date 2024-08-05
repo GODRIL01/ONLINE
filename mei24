@@ -31,9 +31,8 @@ http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/dQRcxVzWpqnq1ATYhtadyL4kcZw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="LIVE EVENT", LIVE 4
-http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
-http://iptvtree.net:8080/F18819/6eb39c7d/298550
-https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/117.m3u8|User-Agent=OTT
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
  
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",Live 5
